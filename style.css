@@ -1,0 +1,46 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+    
+}
+
+h1 {
+    background-color: rgb(126, 126, 131);
+    color: white;
+    display: block;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    border: 3px black solid;
+    
+}
+
+footer {
+    background-color: cadetblue;
+    color: white;
+    display: block;
+    padding: 10px;
+    text-align: center;
+    
+}
+
+a {
+    text-decoration: none;
+    padding: 15px;
+ 
+}
+
+a:hover {
+  margin-right: 20px;
+}
+
+
+p, header, section{ 
+    text-align: center;
+    box-
+    
+}
+
+img{
+    margin-left: 10%;
+}
